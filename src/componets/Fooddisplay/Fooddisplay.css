@@ -60,8 +60,8 @@
 @media (max-width: 576px) {
   .food-display-list {
     grid-template-columns: 1fr;
-    gap: 16px;
-    margin: 16px 4px;
+    gap: 30px;
+    margin: auto;
   }
 
   .food-display h2 {
